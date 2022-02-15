@@ -13,10 +13,9 @@
   <img align="center" alt="Paulo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Paulo-SQLserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 
-<!-- AVATAR
-<img align="right" alt="Paulo-pic" height="150" style="border-radius:50px;" src="">
+<img align="right" alt="Paulo-pic" height="150" style="border-radius:20px;" src="https://media.discordapp.net/attachments/366257487512600588/942980702197149696/Screenshot_2022-02-14_233404.png">
 </div>
--->
+  
   ##
  
 <div> 
