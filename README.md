@@ -3,6 +3,8 @@
 ### Livros 📘
 * Expressões Regulares: Uma Abordagem Divertida ✔️
 * O codificador limpo ⏳ 
+* Python Fluente - Luciano Ramalho ⏳
+* Web Scraping com Python ⏳
 
 <div align="center">
   <a href="https://github.com/PauloCeccon">
