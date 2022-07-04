@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+* 📖 I'm currently studying Software Development at Fatec Campinas
+
 ### Books 📘
 * Expressões Regulares: Uma Abordagem Divertida ✔️
 * O codificador limpo ⏳ 
