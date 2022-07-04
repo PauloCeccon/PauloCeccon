@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Livros 📘
+### Books 📘
 * Expressões Regulares: Uma Abordagem Divertida ✔️
 * O codificador limpo ⏳ 
 * Python Fluente - Luciano Ramalho ⏳
