@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-* 📖 I'm currently studying Software Development at Fatec Campinas
+📖 I'm currently studying Software Development at Fatec Campinas
 
 ### Books 📘
 * Expressões Regulares: Uma Abordagem Divertida ✔️
@@ -28,6 +28,7 @@
   ##
  
 <div> 
+  ### 📫 Find me on:
   <a href="https://www.instagram.com/phceccon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pauloceccon2013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pauloceccon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
