@@ -4,9 +4,10 @@
 
 ### Books 📘
 * Expressões Regulares: Uma Abordagem Divertida ✔️
-* O codificador limpo ⏳ 
-* Python Fluente - Luciano Ramalho ⏳
+* O codificador limpo ✔️
+* Python Fluente - Luciano Ramalho ထ
 * Web Scraping com Python ⏳
+* Microsserviços Protos para a Produção ⏳
 
 <div align="center">
   <a href="https://github.com/PauloCeccon">
